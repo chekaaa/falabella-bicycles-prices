@@ -1,0 +1,3330 @@
+{
+    "componentDomId": "fbra_browseProductList",
+    "controlParameter": {
+        "enableBankPromotions": false,
+        "enableProductCompare": true
+    },
+    "componentType": "Browse-PLP",
+    "state": {
+        "searchItemList": {
+            "resultsPerPage": 48,
+            "resultsTotal": 289,
+            "pagesTotal": 7,
+            "curentPage": 1,
+            "useRecordImage": false,
+            "resultList": [{
+                "productId": "7171364",
+                "url": "/falabella-cl/product/7171364/Bicicleta-Merida-Scultura-5000-2019/7171365",
+                "brand": "Merida",
+                "backendCategory": "J03050106",
+                "skuId": "7171365",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "7171364",
+                "onImageHover": "zoom",
+                "title": "Bicicleta Merida Scultura 5000 2019",
+                "useImageAtProductLevel": true,
+                "prices": [{
+                    "label": "",
+                    "originalPrice": "2.690.000",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 0.0,
+                "totalReviews": 0,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 4,
+                "displayRatings": true,
+                "hasSize": true,
+                "published": true,
+                "specifications": {
+                    "G�nero": "Unisex",
+                    "Material del marco": "Carbono",
+                    "N�mero de cambios": "11",
+                    "Tipo de freno": "V-brake",
+                    "Suspensi�n": "Sin suspensi�n"
+                }
+            }, {
+                "productId": "6769102",
+                "url": "/falabella-cl/product/6769102/Bicicleta-Legion-L60-Black-Aro-20-2019/6769139",
+                "brand": "Mongoose",
+                "backendCategory": "J03050103",
+                "skuId": "6769139",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "6769139",
+                "onImageHover": "zoom",
+                "title": "Bicicleta Legion L60 Black Aro 20\" 2019",
+                "useImageAtProductLevel": false,
+                "prices": [{
+                    "label": "",
+                    "originalPrice": "199.990",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 5.0,
+                "totalReviews": 1,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 1,
+                "displayRatings": true,
+                "hasSize": false,
+                "published": true,
+                "specifications": {
+                    "Aro": "20",
+                    "Material del marco": "Acero",
+                    "Tipo de freno": "V-brake",
+                    "Marca": "Mongoose",
+                    "Tipo": "Freestyle"
+                }
+            }, {
+                "productId": "6458361",
+                "url": "/falabella-cl/product/6458361/Mtb-Marlin-7-Mujer-29-Rojo-17/6458362",
+                "brand": "Trek",
+                "backendCategory": "J03050106",
+                "skuId": "6458362",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "6458361",
+                "onImageHover": "zoom",
+                "title": "Mtb Marlin 7 Mujer 29 Rojo 17",
+                "meatSticker": {
+                    "second": {
+                        "file": "",
+                        "title": "<span>24%</span>",
+                        "className": "percentoff"
+                    }
+                },
+                "useImageAtProductLevel": true,
+                "prices": [{
+                    "label": "",
+                    "originalPrice": "439.990",
+                    "symbol": "$ ",
+                    "type": 1,
+                    "isLoyalty": false,
+                    "opportunidadUnica": true
+                }, {
+                    "label": "(Oferta)",
+                    "originalPrice": "449.990",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }, {
+                    "label": "",
+                    "originalPrice": "579.800",
+                    "symbol": "$ ",
+                    "type": 2,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 0.0,
+                "totalReviews": 0,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 1,
+                "displayRatings": true,
+                "hasSize": true,
+                "published": true,
+                "specifications": {
+                    "Aro": "29",
+                    "Material del marco": "Aluminio",
+                    "Suspensi�n": "Delantera",
+                    "N�mero de cambios": "27",
+                    "Tipo de freno": "Disco hidr�ulico"
+                }
+            }, {
+                "productId": "5198738",
+                "url": "/falabella-cl/product/5198738/Bicicleta-Aro-29-Tekoa-Sport/5198739",
+                "brand": "Raleigh",
+                "backendCategory": "J03050106",
+                "skuId": "5198739",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "5198738",
+                "onImageHover": "zoom",
+                "title": "Bicicleta Aro 29 Tekoa Sport",
+                "useImageAtProductLevel": true,
+                "prices": [{
+                    "label": "",
+                    "originalPrice": "629.900",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 0.0,
+                "totalReviews": 0,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 2,
+                "displayRatings": true,
+                "hasSize": true,
+                "published": true,
+                "specifications": {
+                    "G�nero": "Unisex",
+                    "Material del marco": "Aluminio",
+                    "N�mero de cambios": "9",
+                    "Tipo de freno": "Disco hidr�ulico",
+                    "Suspensi�n": "Delantera"
+                }
+            }, {
+                "productId": "6458666",
+                "url": "/falabella-cl/product/6458666/Mtb-Marlin-6-Mujer-29-Gris-17/6458668",
+                "brand": "Trek",
+                "backendCategory": "J03050106",
+                "skuId": "6458668",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "6458666",
+                "onImageHover": "zoom",
+                "title": "Mtb Marlin 6 Mujer 29 Gris 17",
+                "meatSticker": {
+                    "second": {
+                        "file": "",
+                        "title": "<span>21%</span>",
+                        "className": "percentoff"
+                    }
+                },
+                "useImageAtProductLevel": true,
+                "prices": [{
+                    "label": "",
+                    "originalPrice": "339.990",
+                    "symbol": "$ ",
+                    "type": 1,
+                    "isLoyalty": false,
+                    "opportunidadUnica": true
+                }, {
+                    "label": "(Oferta)",
+                    "originalPrice": "349.990",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }, {
+                    "label": "",
+                    "originalPrice": "429.990",
+                    "symbol": "$ ",
+                    "type": 2,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 0.0,
+                "totalReviews": 0,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 2,
+                "displayRatings": true,
+                "hasSize": true,
+                "published": true,
+                "specifications": {
+                    "Aro": "29",
+                    "Material del marco": "Aluminio",
+                    "Suspensi�n": "Delantera",
+                    "N�mero de cambios": "24",
+                    "Tipo de freno": "Disco hidr�ulico"
+                }
+            }, {
+                "productId": "5198801",
+                "url": "/falabella-cl/product/5198801/Bicicleta-Aro-27.5-Talus-5-XC/5198802",
+                "brand": "Raleigh",
+                "backendCategory": "J03050106",
+                "skuId": "5198802",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "5198801",
+                "onImageHover": "zoom",
+                "title": "Bicicleta Aro 27.5 Talus 5 XC",
+                "useImageAtProductLevel": true,
+                "prices": [{
+                    "label": "",
+                    "originalPrice": "899.900",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 0.0,
+                "totalReviews": 0,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 4,
+                "displayRatings": true,
+                "hasSize": true,
+                "published": true,
+                "specifications": {
+                    "G�nero": "Unisex",
+                    "Material del marco": "Aluminio",
+                    "N�mero de cambios": "10",
+                    "Tipo de freno": "Disco hidr�ulico",
+                    "Suspensi�n": "Delantera"
+                }
+            }, {
+                "productId": "5198694",
+                "url": "/falabella-cl/product/5198694/Bicicleta-Aro-27.5-Addy-27.5-2.3/5198695",
+                "brand": "Fuji",
+                "backendCategory": "J03050106",
+                "skuId": "5198695",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "5198694",
+                "onImageHover": "zoom",
+                "title": "Bicicleta Aro 27.5 Addy 27.5 2.3",
+                "meatSticker": {
+                    "second": {
+                        "file": "",
+                        "title": "<span>20%</span>",
+                        "className": "percentoff"
+                    }
+                },
+                "useImageAtProductLevel": true,
+                "prices": [{
+                    "label": "(Oferta)",
+                    "originalPrice": "399.990",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }, {
+                    "label": "",
+                    "originalPrice": "499.900",
+                    "symbol": "$ ",
+                    "type": 2,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 0.0,
+                "totalReviews": 0,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 2,
+                "displayRatings": true,
+                "hasSize": true,
+                "published": true,
+                "specifications": {
+                    "G�nero": "Mujer",
+                    "Material del marco": "Aluminio",
+                    "N�mero de cambios": "8",
+                    "Tipo de freno": "Disco mec�nico",
+                    "Suspensi�n": "Delantera"
+                }
+            }, {
+                "productId": "5228963",
+                "url": "/falabella-cl/product/5228963/Bicicleta-Aro-27%2C5-Vento-SX-Alloy/5228964",
+                "brand": "Bianchi",
+                "backendCategory": "J03050106",
+                "skuId": "5228964",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "5228963",
+                "onImageHover": "zoom",
+                "title": "Bicicleta Aro 27,5 Vento SX Alloy",
+                "useImageAtProductLevel": true,
+                "prices": [{
+                    "label": "",
+                    "originalPrice": "299.900",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 0.0,
+                "totalReviews": 0,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 1,
+                "displayRatings": true,
+                "hasSize": false,
+                "published": true,
+                "specifications": {
+                    "G�nero": "Mujer",
+                    "Material del marco": "Aluminio",
+                    "N�mero de cambios": "21",
+                    "Tipo de freno": "Disco mec�nico",
+                    "Suspensi�n": "Delantera"
+                }
+            }, {
+                "productId": "6458676",
+                "url": "/falabella-cl/product/6458676/Mtb-Marlin-7-Mujer-29-Plata/6458677",
+                "brand": "Trek",
+                "backendCategory": "J03050106",
+                "skuId": "6458677",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "6458676",
+                "onImageHover": "zoom",
+                "title": "Mtb Marlin 7 Mujer 29 Plata",
+                "meatSticker": {
+                    "second": {
+                        "file": "",
+                        "title": "<span>23%</span>",
+                        "className": "percentoff"
+                    }
+                },
+                "useImageAtProductLevel": true,
+                "prices": [{
+                    "label": "",
+                    "originalPrice": "439.990",
+                    "symbol": "$ ",
+                    "type": 1,
+                    "isLoyalty": false,
+                    "opportunidadUnica": true
+                }, {
+                    "label": "(Oferta)",
+                    "originalPrice": "449.990",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }, {
+                    "label": "",
+                    "originalPrice": "569.900",
+                    "symbol": "$ ",
+                    "type": 2,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 0.0,
+                "totalReviews": 0,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 1,
+                "displayRatings": true,
+                "hasSize": true,
+                "published": true,
+                "specifications": {
+                    "Aro": "29",
+                    "Material del marco": "Aluminio",
+                    "Suspensi�n": "Delantera",
+                    "N�mero de cambios": "27",
+                    "Tipo de freno": "Disco hidr�ulico"
+                }
+            }, {
+                "productId": "5198709",
+                "url": "/falabella-cl/product/5198709/Bicicleta-Aro-27.5-Charger-7.2-Forma/5198711",
+                "brand": "Norco",
+                "backendCategory": "J03050106",
+                "skuId": "5198711",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "5198709",
+                "onImageHover": "zoom",
+                "title": "Bicicleta Aro 27.5 Charger 7.2 Forma",
+                "meatSticker": {
+                    "second": {
+                        "file": "",
+                        "title": "<span>22%</span>",
+                        "className": "percentoff"
+                    }
+                },
+                "useImageAtProductLevel": true,
+                "prices": [{
+                    "label": "(Oferta)",
+                    "originalPrice": "699.990",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }, {
+                    "label": "",
+                    "originalPrice": "899.900",
+                    "symbol": "$ ",
+                    "type": 2,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 0.0,
+                "totalReviews": 0,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 2,
+                "displayRatings": true,
+                "hasSize": true,
+                "published": true,
+                "specifications": {
+                    "G�nero": "Mujer",
+                    "Material del marco": "Aluminio",
+                    "N�mero de cambios": "10",
+                    "Tipo de freno": "Disco hidr�ulico",
+                    "Suspensi�n": "Delantera"
+                }
+            }, {
+                "productId": "6770003",
+                "url": "/falabella-cl/product/6770003/Bicicleta-Legion-L10-Blue-Aro20-2019/6770004",
+                "brand": "Mongoose",
+                "backendCategory": "J03050103",
+                "skuId": "6770004",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "6770004",
+                "onImageHover": "zoom",
+                "title": "Bicicleta Legion L10 Blue Aro20\" 2019",
+                "meatSticker": {
+                    "second": {
+                        "file": "",
+                        "title": "<span>23%</span>",
+                        "className": "percentoff"
+                    }
+                },
+                "useImageAtProductLevel": false,
+                "prices": [{
+                    "label": "(Oferta)",
+                    "originalPrice": "99.990",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }, {
+                    "label": "",
+                    "originalPrice": "129.990",
+                    "symbol": "$ ",
+                    "type": 2,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 5.0,
+                "totalReviews": 2,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 1,
+                "displayRatings": true,
+                "hasSize": false,
+                "published": true,
+                "specifications": {
+                    "Aro": "20",
+                    "Tipo de freno": "V-brake",
+                    "Marca": "Mongoose",
+                    "Tipo": "Freestyle",
+                    "G�nero": "Unisex"
+                }
+            }, {
+                "productId": "6625824",
+                "url": "/falabella-cl/product/6625824/Bicicleta-Hydra-Aro27%2C5/6625825",
+                "brand": "Oxford",
+                "backendCategory": "J03050106",
+                "skuId": "6625825",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "6625824",
+                "onImageHover": "zoom",
+                "title": "Bicicleta Hydra Aro27,5",
+                "useImageAtProductLevel": true,
+                "prices": [{
+                    "label": "",
+                    "originalPrice": "399.990",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 5.0,
+                "totalReviews": 1,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 1,
+                "displayRatings": true,
+                "hasSize": true,
+                "published": true,
+                "specifications": {
+                    "G�nero": "Unisex",
+                    "Material del marco": "Aluminio",
+                    "N�mero de cambios": "24",
+                    "Tipo de freno": "Disco hidr�ulico delantero",
+                    "Suspensi�n": "Delantera"
+                }
+            }, {
+                "productId": "6458673",
+                "url": "/falabella-cl/product/6458673/Mtb-Marlin-7-Mujer-27.5-Plata-13.5/6458675",
+                "brand": "Trek",
+                "backendCategory": "J03050106",
+                "skuId": "6458675",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "6458673",
+                "onImageHover": "zoom",
+                "title": "Mtb Marlin 7 Mujer 27.5 Plata 13.5",
+                "meatSticker": {
+                    "second": {
+                        "file": "",
+                        "title": "<span>24%</span>",
+                        "className": "percentoff"
+                    }
+                },
+                "useImageAtProductLevel": true,
+                "prices": [{
+                    "label": "",
+                    "originalPrice": "439.990",
+                    "symbol": "$ ",
+                    "type": 1,
+                    "isLoyalty": false,
+                    "opportunidadUnica": true
+                }, {
+                    "label": "(Oferta)",
+                    "originalPrice": "449.990",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }, {
+                    "label": "",
+                    "originalPrice": "579.800",
+                    "symbol": "$ ",
+                    "type": 2,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 0.0,
+                "totalReviews": 0,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 1,
+                "displayRatings": true,
+                "hasSize": true,
+                "published": true,
+                "specifications": {
+                    "Aro": "27,5",
+                    "Material del marco": "Aluminio",
+                    "Suspensi�n": "Delantera",
+                    "N�mero de cambios": "27",
+                    "Tipo de freno": "Disco hidr�ulico"
+                }
+            }, {
+                "productId": "6768992",
+                "url": "/falabella-cl/product/6768992/Bicicleta-Legion-L20-Red-Aro-20-2019/6768993",
+                "brand": "Mongoose",
+                "backendCategory": "J03050103",
+                "skuId": "6768993",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "6768993",
+                "onImageHover": "zoom",
+                "title": "Bicicleta Legion L20 Red Aro 20\" 2019",
+                "useImageAtProductLevel": false,
+                "prices": [{
+                    "label": "",
+                    "originalPrice": "159.990",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 4.0,
+                "totalReviews": 2,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 1,
+                "displayRatings": true,
+                "hasSize": false,
+                "published": true,
+                "specifications": {
+                    "Aro": "20",
+                    "Material del marco": "Acero",
+                    "Tipo de freno": "V-brake",
+                    "Marca": "Mongoose",
+                    "Tipo": "Freestyle"
+                }
+            }, {
+                "productId": "5198752",
+                "url": "/falabella-cl/product/5198752/Bicicleta-Aro-27.5-Nevada-1.5/5198753",
+                "brand": "Fuji",
+                "backendCategory": "J03050106",
+                "skuId": "5198753",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "5198752",
+                "onImageHover": "zoom",
+                "title": "Bicicleta Aro 27.5 Nevada 1.5",
+                "meatSticker": {
+                    "second": {
+                        "file": "",
+                        "title": "<span>23%</span>",
+                        "className": "percentoff"
+                    }
+                },
+                "useImageAtProductLevel": true,
+                "prices": [{
+                    "label": "(Oferta)",
+                    "originalPrice": "499.990",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }, {
+                    "label": "",
+                    "originalPrice": "649.900",
+                    "symbol": "$ ",
+                    "type": 2,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 0.0,
+                "totalReviews": 0,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 3,
+                "displayRatings": true,
+                "hasSize": true,
+                "published": true,
+                "specifications": {
+                    "G�nero": "Unisex",
+                    "Material del marco": "Aluminio",
+                    "N�mero de cambios": "9",
+                    "Tipo de freno": "Disco hidr�ulico",
+                    "Suspensi�n": "Delantera"
+                }
+            }, {
+                "productId": "5198563",
+                "url": "/falabella-cl/product/5198563/Bicicleta-Aro-20-Dynamite-Sport/5198564",
+                "brand": "Fuji",
+                "backendCategory": "J03050103",
+                "skuId": "5198564",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "5198563",
+                "onImageHover": "zoom",
+                "title": "Bicicleta Aro 20 Dynamite Sport",
+                "meatSticker": {
+                    "second": {
+                        "file": "",
+                        "title": "<span>22%</span>",
+                        "className": "percentoff"
+                    }
+                },
+                "useImageAtProductLevel": true,
+                "prices": [{
+                    "label": "(Oferta)",
+                    "originalPrice": "209.990",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }, {
+                    "label": "",
+                    "originalPrice": "269.900",
+                    "symbol": "$ ",
+                    "type": 2,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 0.0,
+                "totalReviews": 0,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 1,
+                "displayRatings": true,
+                "hasSize": false,
+                "published": true,
+                "specifications": {
+                    "G�nero": "Infantil",
+                    "Material del marco": "Aluminio",
+                    "N�mero de cambios": "7",
+                    "Tipo de freno": "V-brake",
+                    "Suspensi�n": "Delantera"
+                }
+            }, {
+                "productId": "5771372",
+                "url": "/falabella-cl/product/5771372/Bicicleta-Aro-29-X-Caliber-9-Negro/5771374",
+                "brand": "Trek",
+                "backendCategory": "J03050106",
+                "skuId": "5771374",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "5771372",
+                "onImageHover": "zoom",
+                "title": "Bicicleta Aro 29 X-Caliber 9 Negro",
+                "meatSticker": {
+                    "second": {
+                        "file": "",
+                        "title": "<span>34%</span>",
+                        "className": "percentoff"
+                    }
+                },
+                "useImageAtProductLevel": true,
+                "prices": [{
+                    "label": "(Oferta)",
+                    "originalPrice": "849.990",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }, {
+                    "label": "",
+                    "originalPrice": "1.290.000",
+                    "symbol": "$ ",
+                    "type": 2,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 0.0,
+                "totalReviews": 0,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 1,
+                "displayRatings": true,
+                "hasSize": true,
+                "published": true,
+                "specifications": {
+                    "G�nero": "Unisex",
+                    "Material del marco": "Aluminio",
+                    "N�mero de cambios": "11",
+                    "Tipo de freno": "Disco hidr�ulico",
+                    "Suspensi�n": "Delantera"
+                }
+            }, {
+                "productId": "7320960",
+                "url": "/falabella-cl/product/7320960/Bicicleta-Rako-Aro-27%2C5/7320965",
+                "brand": "Oxford",
+                "backendCategory": "J03050106",
+                "skuId": "7320965",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "7320965",
+                "onImageHover": "zoom",
+                "title": "Bicicleta Rako Aro 27,5",
+                "meatSticker": {
+                    "second": {
+                        "file": "",
+                        "title": "<span>48%</span>",
+                        "className": "percentoff"
+                    }
+                },
+                "useImageAtProductLevel": false,
+                "prices": [{
+                    "label": "(Oferta)",
+                    "originalPrice": "129.990",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }, {
+                    "label": "",
+                    "originalPrice": "249.990",
+                    "symbol": "$ ",
+                    "type": 2,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 0.0,
+                "totalReviews": 0,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 1,
+                "displayRatings": true,
+                "hasSize": true,
+                "published": true,
+                "specifications": {
+                    "G�nero": "Unisex",
+                    "Material del marco": "Aluminio",
+                    "N�mero de cambios": "21",
+                    "Tipo de freno": "Disco mec�nico",
+                    "Suspensi�n": "Delantera"
+                }
+            }, {
+                "productId": "7320962",
+                "url": "/falabella-cl/product/7320962/Bicicleta-Rako-Aro-27%2C5/7320966",
+                "brand": "Oxford",
+                "backendCategory": "J03050106",
+                "skuId": "7320966",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "7320966",
+                "onImageHover": "zoom",
+                "title": "Bicicleta Rako Aro 27,5",
+                "meatSticker": {
+                    "second": {
+                        "file": "",
+                        "title": "<span>48%</span>",
+                        "className": "percentoff"
+                    }
+                },
+                "useImageAtProductLevel": false,
+                "prices": [{
+                    "label": "(Oferta)",
+                    "originalPrice": "129.990",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }, {
+                    "label": "",
+                    "originalPrice": "249.990",
+                    "symbol": "$ ",
+                    "type": 2,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 5.0,
+                "totalReviews": 1,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 1,
+                "displayRatings": true,
+                "hasSize": true,
+                "published": true,
+                "specifications": {
+                    "G�nero": "Unisex",
+                    "Material del marco": "Aluminio",
+                    "N�mero de cambios": "21",
+                    "Tipo de freno": "Disco mec�nico",
+                    "Suspensi�n": "Delantera"
+                }
+            }, {
+                "productId": "7384808",
+                "url": "/falabella-cl/product/7384808/Bicicleta-Jade-Aro-27.5/7384812",
+                "brand": "Oxford",
+                "backendCategory": "J03050106",
+                "skuId": "7384812",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "7384812",
+                "onImageHover": "zoom",
+                "title": "Bicicleta Jade Aro 27.5 ",
+                "meatSticker": {
+                    "second": {
+                        "file": "",
+                        "title": "<span>48%</span>",
+                        "className": "percentoff"
+                    }
+                },
+                "useImageAtProductLevel": false,
+                "prices": [{
+                    "label": "(Oferta)",
+                    "originalPrice": "129.990",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }, {
+                    "label": "",
+                    "originalPrice": "249.990",
+                    "symbol": "$ ",
+                    "type": 2,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 0.0,
+                "totalReviews": 0,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 1,
+                "displayRatings": true,
+                "hasSize": true,
+                "published": true,
+                "specifications": {
+                    "G�nero": "Mujer",
+                    "Material del marco": "Aluminio",
+                    "N�mero de cambios": "21",
+                    "Tipo de freno": "Disco mec�nico",
+                    "Suspensi�n": "Delantera"
+                }
+            }, {
+                "productId": "5323205",
+                "url": "/falabella-cl/product/5323205/Bicicleta-Aro-27.5-Merak3/5323206",
+                "brand": "Oxford",
+                "backendCategory": "J03050106",
+                "skuId": "5323206",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "5323205",
+                "onImageHover": "zoom",
+                "title": "Bicicleta Aro 27.5 Merak3",
+                "meatSticker": {
+                    "second": {
+                        "file": "",
+                        "title": "<span>28%</span>",
+                        "className": "percentoff"
+                    }
+                },
+                "useImageAtProductLevel": true,
+                "prices": [{
+                    "label": "(Oferta)",
+                    "originalPrice": "179.990",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }, {
+                    "label": "",
+                    "originalPrice": "249.990",
+                    "symbol": "$ ",
+                    "type": 2,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 4.0,
+                "totalReviews": 2,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 1,
+                "displayRatings": true,
+                "hasSize": true,
+                "published": true,
+                "specifications": {
+                    "G�nero": "Unisex",
+                    "Material del marco": "Aluminio",
+                    "N�mero de cambios": "21",
+                    "Tipo de freno": "V-brake",
+                    "Suspensi�n": "Delantera"
+                }
+            }, {
+                "productId": "6625774",
+                "url": "/falabella-cl/product/6625774/Bicicleta-Merak1-Aro27%2C5/6625777",
+                "brand": "Oxford",
+                "backendCategory": "J03050106",
+                "skuId": "6625777",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "6625777",
+                "onImageHover": "zoom",
+                "title": "Bicicleta Merak1 Aro27,5",
+                "meatSticker": {
+                    "second": {
+                        "file": "",
+                        "title": "<span>40%</span>",
+                        "className": "percentoff"
+                    }
+                },
+                "useImageAtProductLevel": false,
+                "prices": [{
+                    "label": "(Oferta)",
+                    "originalPrice": "149.990",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }, {
+                    "label": "",
+                    "originalPrice": "249.990",
+                    "symbol": "$ ",
+                    "type": 2,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 5.0,
+                "totalReviews": 1,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 2,
+                "displayRatings": true,
+                "hasSize": true,
+                "published": true,
+                "specifications": {
+                    "G�nero": "Unisex",
+                    "Material del marco": "Aluminio",
+                    "N�mero de cambios": "21",
+                    "Tipo de freno": "Disco mec�nico",
+                    "Suspensi�n": "Delantera"
+                }
+            }, {
+                "productId": "6625778",
+                "url": "/falabella-cl/product/6625778/Bicicleta-Merak1-Aro27%2C5/6625779",
+                "brand": "Oxford",
+                "backendCategory": "J03050106",
+                "skuId": "6625779",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "6625778",
+                "onImageHover": "zoom",
+                "title": "Bicicleta Merak1 Aro27,5",
+                "meatSticker": {
+                    "second": {
+                        "file": "",
+                        "title": "<span>40%</span>",
+                        "className": "percentoff"
+                    }
+                },
+                "useImageAtProductLevel": true,
+                "prices": [{
+                    "label": "(Oferta)",
+                    "originalPrice": "149.990",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }, {
+                    "label": "",
+                    "originalPrice": "249.990",
+                    "symbol": "$ ",
+                    "type": 2,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 3.0,
+                "totalReviews": 4,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 2,
+                "displayRatings": true,
+                "hasSize": true,
+                "published": true,
+                "specifications": {
+                    "G�nero": "Unisex",
+                    "Material del marco": "Aluminio",
+                    "N�mero de cambios": "21",
+                    "Tipo de freno": "Disco mec�nico",
+                    "Suspensi�n": "Delantera"
+                }
+            }, {
+                "productId": "6625772",
+                "url": "/falabella-cl/product/6625772/Bicicleta-Merak1-Aro27%2C5/6625773",
+                "brand": "Oxford",
+                "backendCategory": "J03050106",
+                "skuId": "6625773",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "6625772",
+                "onImageHover": "zoom",
+                "title": "Bicicleta Merak1 Aro27,5",
+                "meatSticker": {
+                    "second": {
+                        "file": "",
+                        "title": "<span>40%</span>",
+                        "className": "percentoff"
+                    }
+                },
+                "useImageAtProductLevel": true,
+                "prices": [{
+                    "label": "(Oferta)",
+                    "originalPrice": "149.990",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }, {
+                    "label": "",
+                    "originalPrice": "249.990",
+                    "symbol": "$ ",
+                    "type": 2,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 3.0,
+                "totalReviews": 2,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 1,
+                "displayRatings": true,
+                "hasSize": true,
+                "published": true,
+                "specifications": {
+                    "G�nero": "Unisex",
+                    "Material del marco": "Aluminio",
+                    "N�mero de cambios": "21",
+                    "Tipo de freno": "Disco mec�nico",
+                    "Suspensi�n": "Delantera"
+                }
+            }, {
+                "productId": "6625790",
+                "url": "/falabella-cl/product/6625790/Bicicleta-Merak3-Aro27%2C5/6625791",
+                "brand": "Oxford",
+                "backendCategory": "J03050106",
+                "skuId": "6625791",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "6625791",
+                "onImageHover": "zoom",
+                "title": "Bicicleta Merak3 Aro27,5",
+                "meatSticker": {
+                    "second": {
+                        "file": "",
+                        "title": "<span>20%</span>",
+                        "className": "percentoff"
+                    }
+                },
+                "useImageAtProductLevel": false,
+                "prices": [{
+                    "label": "(Oferta)",
+                    "originalPrice": "239.990",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }, {
+                    "label": "",
+                    "originalPrice": "299.990",
+                    "symbol": "$ ",
+                    "type": 2,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 5.0,
+                "totalReviews": 1,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 2,
+                "displayRatings": true,
+                "hasSize": true,
+                "published": true,
+                "specifications": {
+                    "G�nero": "Unisex",
+                    "Material del marco": "Aluminio",
+                    "N�mero de cambios": "21",
+                    "Tipo de freno": "Disco mec�nico",
+                    "Suspensi�n": "Delantera"
+                }
+            }, {
+                "productId": "7221002",
+                "url": "/falabella-cl/product/7221002/Bicicleta-Merak-1-Aro-27.5/7221003",
+                "brand": "Oxford",
+                "backendCategory": "J03050106",
+                "skuId": "7221003",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "7221002",
+                "onImageHover": "zoom",
+                "title": "Bicicleta Merak 1 Aro 27.5",
+                "meatSticker": {
+                    "second": {
+                        "file": "",
+                        "title": "<span>40%</span>",
+                        "className": "percentoff"
+                    }
+                },
+                "useImageAtProductLevel": true,
+                "prices": [{
+                    "label": "(Oferta)",
+                    "originalPrice": "149.990",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }, {
+                    "label": "",
+                    "originalPrice": "249.990",
+                    "symbol": "$ ",
+                    "type": 2,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 5.0,
+                "totalReviews": 1,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 1,
+                "displayRatings": true,
+                "hasSize": true,
+                "published": true,
+                "specifications": {
+                    "G�nero": "Unisex",
+                    "Material del marco": "Aluminio",
+                    "N�mero de cambios": "21",
+                    "Tipo de freno": "Disco mec�nico",
+                    "Suspensi�n": "Delantera"
+                }
+            }, {
+                "productId": "6625764",
+                "url": "/falabella-cl/product/6625764/Bicicleta-Venus1-Aro27%2C5/6625765",
+                "brand": "Oxford",
+                "backendCategory": "J03050106",
+                "skuId": "6625765",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "6625764",
+                "onImageHover": "second",
+                "title": "Bicicleta Venus1 Aro27,5",
+                "meatSticker": {
+                    "second": {
+                        "file": "",
+                        "title": "<span>40%</span>",
+                        "className": "percentoff"
+                    }
+                },
+                "useImageAtProductLevel": true,
+                "prices": [{
+                    "label": "(Oferta)",
+                    "originalPrice": "149.990",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }, {
+                    "label": "",
+                    "originalPrice": "249.990",
+                    "symbol": "$ ",
+                    "type": 2,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 3.0,
+                "totalReviews": 2,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 2,
+                "displayRatings": true,
+                "hasSize": true,
+                "published": true,
+                "specifications": {
+                    "G�nero": "Mujer",
+                    "Material del marco": "Aluminio",
+                    "N�mero de cambios": "21",
+                    "Tipo de freno": "Disco mec�nico",
+                    "Suspensi�n": "Delantera"
+                }
+            }, {
+                "productId": "6625767",
+                "url": "/falabella-cl/product/6625767/Bicicleta-Venus1-Aro27%2C5/6625769",
+                "brand": "Oxford",
+                "backendCategory": "J03050106",
+                "skuId": "6625769",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "6625767",
+                "onImageHover": "zoom",
+                "title": "Bicicleta  Venus1 Aro27,5",
+                "meatSticker": {
+                    "second": {
+                        "file": "",
+                        "title": "<span>40%</span>",
+                        "className": "percentoff"
+                    }
+                },
+                "useImageAtProductLevel": true,
+                "prices": [{
+                    "label": "(Oferta)",
+                    "originalPrice": "149.990",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }, {
+                    "label": "",
+                    "originalPrice": "249.990",
+                    "symbol": "$ ",
+                    "type": 2,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 2.0,
+                "totalReviews": 1,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 2,
+                "displayRatings": true,
+                "hasSize": true,
+                "published": true,
+                "specifications": {
+                    "G�nero": "Mujer",
+                    "Material del marco": "Aluminio",
+                    "N�mero de cambios": "21",
+                    "Tipo de freno": "Disco mec�nico",
+                    "Suspensi�n": "Delantera"
+                }
+            }, {
+                "productId": "6625675",
+                "url": "/falabella-cl/product/6625675/Bicicleta-Venus3-Aro29/6625676",
+                "brand": "Oxford",
+                "backendCategory": "J03050106",
+                "skuId": "6625676",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "6625676",
+                "onImageHover": "zoom",
+                "title": "Bicicleta Venus3 Aro29",
+                "useImageAtProductLevel": false,
+                "prices": [{
+                    "label": "",
+                    "originalPrice": "299.990",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 5.0,
+                "totalReviews": 1,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 1,
+                "displayRatings": true,
+                "hasSize": true,
+                "published": true,
+                "specifications": {
+                    "G�nero": "Mujer",
+                    "Material del marco": "Aluminio",
+                    "N�mero de cambios": "21",
+                    "Tipo de freno": "Disco mec�nico",
+                    "Suspensi�n": "Delantera"
+                }
+            }, {
+                "productId": "6625787",
+                "url": "/falabella-cl/product/6625787/Bicicleta-Venus3-Aro27%2C5/6625788",
+                "brand": "Oxford",
+                "backendCategory": "J03050106",
+                "skuId": "6625788",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "6625787",
+                "onImageHover": "zoom",
+                "title": "Bicicleta Venus3 Aro27,5",
+                "meatSticker": {
+                    "second": {
+                        "file": "",
+                        "title": "<span>23%</span>",
+                        "className": "percentoff"
+                    }
+                },
+                "useImageAtProductLevel": true,
+                "prices": [{
+                    "label": "(Oferta)",
+                    "originalPrice": "229.990",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }, {
+                    "label": "",
+                    "originalPrice": "299.990",
+                    "symbol": "$ ",
+                    "type": 2,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 5.0,
+                "totalReviews": 1,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 1,
+                "displayRatings": true,
+                "hasSize": true,
+                "published": true,
+                "specifications": {
+                    "G�nero": "Mujer",
+                    "Material del marco": "Aluminio",
+                    "N�mero de cambios": "21",
+                    "Tipo de freno": "Disco mec�nico",
+                    "Suspensi�n": "Delantera"
+                }
+            }, {
+                "productId": "6625784",
+                "url": "/falabella-cl/product/6625784/Bicicleta-Venus3-Aro27%2C5/6625786",
+                "brand": "Oxford",
+                "backendCategory": "J03050106",
+                "skuId": "6625786",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "6625784",
+                "onImageHover": "zoom",
+                "title": "Bicicleta Venus3 Aro27,5",
+                "useImageAtProductLevel": true,
+                "prices": [{
+                    "label": "",
+                    "originalPrice": "299.990",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 5.0,
+                "totalReviews": 1,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 2,
+                "displayRatings": true,
+                "hasSize": true,
+                "published": true,
+                "specifications": {
+                    "G�nero": "Mujer",
+                    "Material del marco": "Aluminio",
+                    "N�mero de cambios": "21",
+                    "Tipo de freno": "Disco mec�nico",
+                    "Suspensi�n": "Delantera"
+                }
+            }, {
+                "productId": "7384811",
+                "url": "/falabella-cl/product/7384811/Bicicleta-Jade-Aro-27.5/7384815",
+                "brand": "Oxford",
+                "backendCategory": "J03050106",
+                "skuId": "7384815",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "7384815",
+                "onImageHover": "zoom",
+                "title": "Bicicleta Jade Aro 27.5 ",
+                "meatSticker": {
+                    "second": {
+                        "file": "",
+                        "title": "<span>48%</span>",
+                        "className": "percentoff"
+                    }
+                },
+                "useImageAtProductLevel": false,
+                "prices": [{
+                    "label": "(Oferta)",
+                    "originalPrice": "129.990",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }, {
+                    "label": "",
+                    "originalPrice": "249.990",
+                    "symbol": "$ ",
+                    "type": 2,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 0.0,
+                "totalReviews": 0,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 1,
+                "displayRatings": true,
+                "hasSize": true,
+                "published": true,
+                "specifications": {
+                    "G�nero": "Mujer",
+                    "Material del marco": "Aluminio",
+                    "N�mero de cambios": "21",
+                    "Tipo de freno": "Disco mec�nico",
+                    "Suspensi�n": "Delantera"
+                }
+            }, {
+                "productId": "5967518",
+                "url": "/falabella-cl/product/5967518/Bicicleta-Orion3-Aro-27.5/5967523",
+                "brand": "Oxford",
+                "backendCategory": "J03050105",
+                "skuId": "5967523",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "5967518",
+                "onImageHover": "zoom",
+                "title": "Bicicleta Ori�n3 Aro 27.5 ",
+                "useImageAtProductLevel": true,
+                "prices": [{
+                    "label": "(Oferta)",
+                    "originalPrice": "329.990",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }, {
+                    "label": "",
+                    "originalPrice": "399.990",
+                    "symbol": "$ ",
+                    "type": 2,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 4.0,
+                "totalReviews": 1,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 1,
+                "displayRatings": true,
+                "hasSize": true,
+                "published": true,
+                "specifications": {
+                    "G�nero": "Unisex",
+                    "Material del marco": "Aluminio",
+                    "N�mero de cambios": "24",
+                    "Tipo de freno": "Disco hidr�ulico",
+                    "Suspensi�n": "Delantera"
+                }
+            }, {
+                "productId": "6625814",
+                "url": "/falabella-cl/product/6625814/Bicicleta-Orion2-Aro27%2C5/6625815",
+                "brand": "Oxford",
+                "backendCategory": "J03050106",
+                "skuId": "6625815",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "6625815",
+                "onImageHover": "zoom",
+                "title": "Bicicleta Orion2 Aro27,5",
+                "useImageAtProductLevel": false,
+                "prices": [{
+                    "label": "",
+                    "originalPrice": "349.990",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 5.0,
+                "totalReviews": 1,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 1,
+                "displayRatings": true,
+                "hasSize": true,
+                "published": true,
+                "specifications": {
+                    "G�nero": "Unisex",
+                    "Material del marco": "Aluminio",
+                    "N�mero de cambios": "24",
+                    "Tipo de freno": "Disco hidra�lico",
+                    "Suspensi�n": "Delantera"
+                }
+            }, {
+                "productId": "6625816",
+                "url": "/falabella-cl/product/6625816/Bicicleta-Orion2-Aro27%2C5/6625817",
+                "brand": "Oxford",
+                "backendCategory": "J03050106",
+                "skuId": "6625817",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "6625817",
+                "onImageHover": "zoom",
+                "title": "Bicicleta Orion2 Aro27,5",
+                "useImageAtProductLevel": false,
+                "prices": [{
+                    "label": "",
+                    "originalPrice": "349.990",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 0.0,
+                "totalReviews": 0,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 1,
+                "displayRatings": true,
+                "hasSize": true,
+                "published": true,
+                "specifications": {
+                    "G�nero": "Unisex",
+                    "Material del marco": "Aluminio",
+                    "N�mero de cambios": "24",
+                    "Tipo de freno": "Disco mec�nico",
+                    "Suspensi�n": "Delantera"
+                }
+            }, {
+                "productId": "6625679",
+                "url": "/falabella-cl/product/6625679/Bicicleta-Orion1-Aro-29/6625680",
+                "brand": "Oxford",
+                "backendCategory": "J03050106",
+                "skuId": "6625680",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "6625679",
+                "onImageHover": "zoom",
+                "title": "Bicicleta Orion1 Aro 29",
+                "useImageAtProductLevel": true,
+                "prices": [{
+                    "label": "",
+                    "originalPrice": "319.990",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 5.0,
+                "totalReviews": 2,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 1,
+                "displayRatings": true,
+                "hasSize": true,
+                "published": true,
+                "specifications": {
+                    "G�nero": "Unisex",
+                    "Material del marco": "Aluminio",
+                    "N�mero de cambios": "21",
+                    "Tipo de freno": "Disco mec�nico delantero y trasero",
+                    "Suspensi�n": "Delantera"
+                }
+            }, {
+                "productId": "6625805",
+                "url": "/falabella-cl/product/6625805/Bicicleta-Orion1-Aro27%2C5/6625807",
+                "brand": "Oxford",
+                "backendCategory": "J03050106",
+                "skuId": "6625807",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "6625807",
+                "onImageHover": "zoom",
+                "title": "Bicicleta Orion1 Aro27,5",
+                "useImageAtProductLevel": false,
+                "prices": [{
+                    "label": "(Oferta)",
+                    "originalPrice": "289.990",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }, {
+                    "label": "",
+                    "originalPrice": "319.990",
+                    "symbol": "$ ",
+                    "type": 2,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 5.0,
+                "totalReviews": 1,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 1,
+                "displayRatings": true,
+                "hasSize": true,
+                "published": true,
+                "specifications": {
+                    "G�nero": "Unisex",
+                    "Material del marco": "Aluminio",
+                    "N�mero de cambios": "21",
+                    "Tipo de freno": "Disco mec�nico",
+                    "Suspensi�n": "Delantera"
+                }
+            }, {
+                "productId": "6625802",
+                "url": "/falabella-cl/product/6625802/Bicicleta-Orion1-Aro27%2C5/6625803",
+                "brand": "Oxford",
+                "backendCategory": "J03050106",
+                "skuId": "6625803",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "6625802",
+                "onImageHover": "zoom",
+                "title": "Bicicleta Orion1 Aro27,5",
+                "useImageAtProductLevel": true,
+                "prices": [{
+                    "label": "(Oferta)",
+                    "originalPrice": "289.990",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }, {
+                    "label": "",
+                    "originalPrice": "319.990",
+                    "symbol": "$ ",
+                    "type": 2,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 5.0,
+                "totalReviews": 1,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 2,
+                "displayRatings": true,
+                "hasSize": true,
+                "published": true,
+                "specifications": {
+                    "G�nero": "Unisex",
+                    "Material del marco": "Aluminio",
+                    "N�mero de cambios": "21",
+                    "Tipo de freno": "Disco mec�nico",
+                    "Suspensi�n": "Delantera"
+                }
+            }, {
+                "productId": "6625818",
+                "url": "/falabella-cl/product/6625818/Bicicleta-Orion3-Aro-27.5/6625819",
+                "brand": "Oxford",
+                "backendCategory": "J03050106",
+                "skuId": "6625819",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "6625819",
+                "onImageHover": "zoom",
+                "title": "Bicicleta Orion3 Aro 27.5 ",
+                "useImageAtProductLevel": false,
+                "prices": [{
+                    "label": "",
+                    "originalPrice": "369.990",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 5.0,
+                "totalReviews": 2,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 2,
+                "displayRatings": true,
+                "hasSize": true,
+                "published": true,
+                "specifications": {
+                    "G�nero": "Unisex",
+                    "Material del marco": "Aluminio",
+                    "N�mero de cambios": "24",
+                    "Tipo de freno": "Disco hidr�ulico",
+                    "Suspensi�n": "Delantera"
+                }
+            }, {
+                "productId": "6625799",
+                "url": "/falabella-cl/product/6625799/Bicicleta-Aura-Aro27%2C5/6625800",
+                "brand": "Oxford",
+                "backendCategory": "J03050106",
+                "skuId": "6625800",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "6625800",
+                "onImageHover": "zoom",
+                "title": "Bicicleta Aura Aro27,5",
+                "useImageAtProductLevel": false,
+                "prices": [{
+                    "label": "",
+                    "originalPrice": "319.990",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 0.0,
+                "totalReviews": 0,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 1,
+                "displayRatings": true,
+                "hasSize": true,
+                "published": true,
+                "specifications": {
+                    "G�nero": "Mujer",
+                    "Material del marco": "Aluminio",
+                    "N�mero de cambios": "21",
+                    "Tipo de freno": "Disco mec�nico",
+                    "Suspensi�n": "Delantera"
+                }
+            }, {
+                "productId": "6625796",
+                "url": "/falabella-cl/product/6625796/Bicicleta-Aura-Aro27%2C5/6625797",
+                "brand": "Oxford",
+                "backendCategory": "J03050106",
+                "skuId": "6625797",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "6625796",
+                "onImageHover": "zoom",
+                "title": "Bicicleta Aura Aro27,5",
+                "useImageAtProductLevel": true,
+                "prices": [{
+                    "label": "",
+                    "originalPrice": "319.990",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 0.0,
+                "totalReviews": 0,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 2,
+                "displayRatings": true,
+                "hasSize": true,
+                "published": true,
+                "specifications": {
+                    "G�nero": "Mujer",
+                    "Material del marco": "Aluminio",
+                    "N�mero de cambios": "21",
+                    "Tipo de freno": "Disco mec�nico",
+                    "Suspensi�n": "Delantera"
+                }
+            }, {
+                "productId": "5771255",
+                "url": "/falabella-cl/product/5771255/Bicicleta-Marlin-4-Plata/5771259",
+                "brand": "Trek",
+                "backendCategory": "J03050106",
+                "skuId": "5771259",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "5771255",
+                "onImageHover": "zoom",
+                "title": "Bicicleta Marlin 4 Plata",
+                "meatSticker": {
+                    "second": {
+                        "file": "",
+                        "title": "<span>24%</span>",
+                        "className": "percentoff"
+                    }
+                },
+                "useImageAtProductLevel": true,
+                "prices": [{
+                    "label": "(Oferta)",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false,
+                    "formattedLowestPrice": "239.990",
+                    "formattedHighestPrice": "249.990"
+                }, {
+                    "label": "",
+                    "originalPrice": "329.900",
+                    "symbol": "$ ",
+                    "type": 2,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 2.0,
+                "totalReviews": 7,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 4,
+                "displayRatings": true,
+                "hasSize": true,
+                "published": true,
+                "specifications": {
+                    "G�nero": "Unisex",
+                    "Material del marco": "Aluminio",
+                    "N�mero de cambios": "21",
+                    "Tipo de freno": "Disco mec�nico",
+                    "Suspensi�n": "Delantera"
+                }
+            }, {
+                "productId": "prod13180023",
+                "url": "/falabella-cl/product/prod13180023/Bicicleta-Aro-27%2C5-Vesubio/881319762",
+                "brand": "Jeep",
+                "backendCategory": "J03050106",
+                "skuId": "881319762",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "881319762",
+                "onImageHover": "zoom",
+                "title": "Bicicleta Aro 27,5 Vesubio",
+                "meatSticker": {
+                    "second": {
+                        "file": "",
+                        "title": "<span>44%</span>",
+                        "className": "percentoff"
+                    }
+                },
+                "useImageAtProductLevel": false,
+                "prices": [{
+                    "label": "(Oferta)",
+                    "originalPrice": "149.990",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }, {
+                    "label": "",
+                    "originalPrice": "269.990",
+                    "symbol": "$ ",
+                    "type": 2,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 2.0,
+                "totalReviews": 7,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 1,
+                "displayRatings": true,
+                "hasSize": false,
+                "published": true,
+                "specifications": {
+                    "G�nero": "Unisex",
+                    "Material del marco": "Aluminio",
+                    "N�mero de cambios": "21",
+                    "Tipo de freno": "Disco mec�nico",
+                    "Suspensi�n": "Delantera"
+                }
+            }, {
+                "productId": "881312429",
+                "url": "/falabella-cl/product/881312429/Bicicleta-Aro-27%2C5-Vesubio/881319761",
+                "brand": "Jeep",
+                "backendCategory": "J03050106",
+                "skuId": "881319761",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "881319761",
+                "onImageHover": "zoom",
+                "title": "Bicicleta Aro 27,5 Vesubio",
+                "meatSticker": {
+                    "second": {
+                        "file": "",
+                        "title": "<span>44%</span>",
+                        "className": "percentoff"
+                    }
+                },
+                "useImageAtProductLevel": false,
+                "prices": [{
+                    "label": "(Oferta)",
+                    "originalPrice": "149.990",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }, {
+                    "label": "",
+                    "originalPrice": "269.990",
+                    "symbol": "$ ",
+                    "type": 2,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 3.0,
+                "totalReviews": 11,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 1,
+                "displayRatings": true,
+                "hasSize": false,
+                "published": true,
+                "specifications": {
+                    "G�nero": "Unisex",
+                    "Material del marco": "Aluminio",
+                    "N�mero de cambios": "21",
+                    "Tipo de freno": "Disco mec�nico",
+                    "Suspensi�n": "Delantera"
+                }
+            }, {
+                "productId": "6458312",
+                "url": "/falabella-cl/product/6458312/Mtb-Marlin-5-29-Negro/6458313",
+                "brand": "Trek",
+                "backendCategory": "J03050106",
+                "skuId": "6458313",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "6458312",
+                "onImageHover": "zoom",
+                "title": "Mtb Marlin 5 29 Negro",
+                "meatSticker": {
+                    "second": {
+                        "file": "",
+                        "title": "<span>24%</span>",
+                        "className": "percentoff"
+                    }
+                },
+                "useImageAtProductLevel": true,
+                "prices": [{
+                    "label": "",
+                    "originalPrice": "289.990",
+                    "symbol": "$ ",
+                    "type": 1,
+                    "isLoyalty": false,
+                    "opportunidadUnica": true
+                }, {
+                    "label": "(Oferta)",
+                    "originalPrice": "299.990",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }, {
+                    "label": "",
+                    "originalPrice": "379.990",
+                    "symbol": "$ ",
+                    "type": 2,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 2.0,
+                "totalReviews": 7,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 5,
+                "displayRatings": true,
+                "hasSize": true,
+                "published": true,
+                "specifications": {
+                    "G�nero": "Unisex",
+                    "Material del marco": "Aluminio",
+                    "N�mero de cambios": "21",
+                    "Tipo de freno": "Disco hidr�ulico",
+                    "Suspensi�n": "Delantera"
+                }
+            }, {
+                "productId": "prod13180024",
+                "url": "/falabella-cl/product/prod13180024/Bicicleta-Aro-27%2C5-Vesubio/881319763",
+                "brand": "Jeep",
+                "backendCategory": "J03050106",
+                "skuId": "881319763",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "881319763",
+                "onImageHover": "zoom",
+                "title": "Bicicleta Aro 27,5 Vesubio",
+                "meatSticker": {
+                    "second": {
+                        "file": "",
+                        "title": "<span>44%</span>",
+                        "className": "percentoff"
+                    }
+                },
+                "useImageAtProductLevel": false,
+                "prices": [{
+                    "label": "(Oferta)",
+                    "originalPrice": "149.990",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }, {
+                    "label": "",
+                    "originalPrice": "269.990",
+                    "symbol": "$ ",
+                    "type": 2,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 4.0,
+                "totalReviews": 9,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 1,
+                "displayRatings": true,
+                "hasSize": false,
+                "published": true,
+                "specifications": {
+                    "G�nero": "Unisex",
+                    "Material del marco": "Aluminio",
+                    "N�mero de cambios": "21",
+                    "Tipo de freno": "Disco mec�nico",
+                    "Suspensi�n": "Delantera"
+                }
+            }, {
+                "productId": "881312310",
+                "url": "/falabella-cl/product/881312310/Bicicleta-Aro-27%2C5-Anapurna/881319792",
+                "brand": "Jeep",
+                "backendCategory": "J03050106",
+                "skuId": "881319792",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "881319792",
+                "onImageHover": "zoom",
+                "title": "Bicicleta Aro 27,5 Anapurna",
+                "meatSticker": {
+                    "second": {
+                        "file": "",
+                        "title": "<span>44%</span>",
+                        "className": "percentoff"
+                    }
+                },
+                "useImageAtProductLevel": false,
+                "prices": [{
+                    "label": "(Oferta)",
+                    "originalPrice": "149.990",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }, {
+                    "label": "",
+                    "originalPrice": "269.990",
+                    "symbol": "$ ",
+                    "type": 2,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 0.0,
+                "totalReviews": 0,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 1,
+                "displayRatings": true,
+                "hasSize": false,
+                "published": true,
+                "specifications": {
+                    "Aro": "27,5",
+                    "Material del marco": "Aluminio",
+                    "Suspensi�n": "Delantera",
+                    "N�mero de cambios": "21",
+                    "Tipo de freno": "Disco mec�nico"
+                }
+            }, {
+                "productId": "6458330",
+                "url": "/falabella-cl/product/6458330/Mtb-Marlin-6-29-Negro/6458332",
+                "brand": "Trek",
+                "backendCategory": "J03050106",
+                "skuId": "6458332",
+                "isPrimeAvailable": false,
+                "mediaAssetId": "6458330",
+                "onImageHover": "zoom",
+                "title": "Mtb Marlin 6 29 Negro",
+                "meatSticker": {
+                    "second": {
+                        "file": "",
+                        "title": "<span>21%</span>",
+                        "className": "percentoff"
+                    }
+                },
+                "useImageAtProductLevel": true,
+                "prices": [{
+                    "label": "",
+                    "originalPrice": "339.990",
+                    "symbol": "$ ",
+                    "type": 1,
+                    "isLoyalty": false,
+                    "opportunidadUnica": true
+                }, {
+                    "label": "(Oferta)",
+                    "originalPrice": "349.990",
+                    "symbol": "$ ",
+                    "type": 3,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }, {
+                    "label": "",
+                    "originalPrice": "429.990",
+                    "symbol": "$ ",
+                    "type": 2,
+                    "isLoyalty": false,
+                    "opportunidadUnica": false
+                }],
+                "connectAggregatedData": {
+                    "isConnect": false
+                },
+                "rating": 4.0,
+                "totalReviews": 2,
+                "isCompare": false,
+                "isCODAvailable": false,
+                "isHDAvailable": false,
+                "isCCAvailable": false,
+                "availableSkusTotal": 2,
+                "displayRatings": true,
+                "hasSize": true,
+                "published": true,
+                "specifications": {
+                    "G�nero": "Unisex",
+                    "Material del marco": "Aluminio",
+                    "N�mero de cambios": "24",
+                    "Tipo de freno": "Disco hidr�ulico",
+                    "Suspensi�n": "Delantera"
+                }
+            }],
+            "filters": [{
+                "name": "Marca",
+                "type": "ajax",
+                "state": "open",
+                "select": "multi",
+                "values": [{
+                    "label": "Altitude",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-3ty2?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-3ty2?sortBy=8",
+                    "count": 8
+                }, {
+                    "label": "Bianchi",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-3u6y?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-3u6y?sortBy=8",
+                    "count": 27
+                }, {
+                    "label": "Cannondale",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-3ud3?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-3ud3?sortBy=8",
+                    "count": 4
+                }, {
+                    "label": "Fratta",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-3ux0?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-3ux0?sortBy=8",
+                    "count": 4
+                }, {
+                    "label": "Fuji",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-3uxg?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-3uxg?sortBy=8",
+                    "count": 10
+                }, {
+                    "label": "Giant",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-3uzg?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-3uzg?sortBy=8",
+                    "count": 11
+                }, {
+                    "label": "Gt",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-3v1f?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-3v1f?sortBy=8",
+                    "count": 7
+                }, {
+                    "label": "Jeep",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-3v9w?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-3v9w?sortBy=8",
+                    "count": 13
+                }, {
+                    "label": "Kona",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-3veu?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-3veu?sortBy=8",
+                    "count": 2
+                }, {
+                    "label": "Kross",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-3vfd?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-3vfd?sortBy=8",
+                    "count": 27
+                }, {
+                    "label": "Lahsen",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-3vgo?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-3vgo?sortBy=8",
+                    "count": 8
+                }, {
+                    "label": "Merida",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-3vr2?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-3vr2?sortBy=8",
+                    "count": 30
+                }, {
+                    "label": "Mongoose",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-3vu4?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-3vu4?sortBy=8",
+                    "count": 7
+                }, {
+                    "label": "Norco",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-3vz5?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-3vz5?sortBy=8",
+                    "count": 6
+                }, {
+                    "label": "Orbital",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-3w1h?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-3w1h?sortBy=8",
+                    "count": 3
+                }, {
+                    "label": "Oxford",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-3w23?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-3w23?sortBy=8",
+                    "count": 37
+                }, {
+                    "label": "Raleigh",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-3wac?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-3wac?sortBy=8",
+                    "count": 15
+                }, {
+                    "label": "Scott",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-3wfr?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-3wfr?sortBy=8",
+                    "count": 10
+                }, {
+                    "label": "Trek",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-3wsv?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-3wsv?sortBy=8",
+                    "count": 47
+                }, {
+                    "label": "Veason",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-4bdu?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-4bdu?sortBy=8",
+                    "count": 1
+                }, {
+                    "label": "Volmark",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-4r84?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-4r84?sortBy=8",
+                    "count": 2
+                }, {
+                    "label": "XDS",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-56na?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-56na?sortBy=8",
+                    "count": 3
+                }],
+                "searchIn": true,
+                "displayingNumber": 200
+            }, {
+                "name": "Talla",
+                "type": "ajax",
+                "state": "open",
+                "select": "multi",
+                "values": [{
+                    "label": "13",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z13w2y?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z13w2y?sortBy=8",
+                    "count": 9
+                }, {
+                    "label": "13.5",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z13w25?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z13w25?sortBy=8",
+                    "count": 9
+                }, {
+                    "label": "13.5 /Aro 27.5",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0kz6x?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0kz6x?sortBy=8",
+                    "count": 1
+                }, {
+                    "label": "15",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z13w2k?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z13w2k?sortBy=8",
+                    "count": 19
+                }, {
+                    "label": "15.5",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z13w2r?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z13w2r?sortBy=8",
+                    "count": 13
+                }, {
+                    "label": "15.5/ Aro 27.5",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0l5sp?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0l5sp?sortBy=8",
+                    "count": 1
+                }, {
+                    "label": "16",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z13w38?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z13w38?sortBy=8",
+                    "count": 1
+                }, {
+                    "label": "17",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z13w33?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z13w33?sortBy=8",
+                    "count": 19
+                }, {
+                    "label": "17.5",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z140he?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z140he?sortBy=8",
+                    "count": 13
+                }, {
+                    "label": "17/ Aro 29",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0l4fm?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0l4fm?sortBy=8",
+                    "count": 1
+                }, {
+                    "label": "18",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z13w31?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z13w31?sortBy=8",
+                    "count": 3
+                }, {
+                    "label": "18.5",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z140hd?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z140hd?sortBy=8",
+                    "count": 14
+                }, {
+                    "label": "19",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z13w2d?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z13w2d?sortBy=8",
+                    "count": 11
+                }, {
+                    "label": "19.5",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z13w30?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z13w30?sortBy=8",
+                    "count": 12
+                }, {
+                    "label": "21",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z140hb?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z140hb?sortBy=8",
+                    "count": 6
+                }, {
+                    "label": "21.5",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z13w2b?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z13w2b?sortBy=8",
+                    "count": 8
+                }, {
+                    "label": "23",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z13y7s?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z13y7s?sortBy=8",
+                    "count": 2
+                }, {
+                    "label": "26",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z140h7?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z140h7?sortBy=8",
+                    "count": 1
+                }, {
+                    "label": "Aro 27,5 / 13,5",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0biik?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0biik?sortBy=8",
+                    "count": 1
+                }, {
+                    "label": "Aro 27,5 / 15,5",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0biil?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0biil?sortBy=8",
+                    "count": 2
+                }, {
+                    "label": "Aro 27,5 / 15.5",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0bikh?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0bikh?sortBy=8",
+                    "count": 2
+                }, {
+                    "label": "Aro 29 / 17,5",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0biim?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0biim?sortBy=8",
+                    "count": 2
+                }, {
+                    "label": "Aro 29 / 17.5",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0bikk?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0bikk?sortBy=8",
+                    "count": 1
+                }, {
+                    "label": "Aro 29 / 18,5",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0biin?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0biin?sortBy=8",
+                    "count": 2
+                }, {
+                    "label": "Aro 29 / 18.5",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0bikj?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0bikj?sortBy=8",
+                    "count": 1
+                }, {
+                    "label": "Aro 29 / 19,5",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0biij?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0biij?sortBy=8",
+                    "count": 1
+                }, {
+                    "label": "Aro 29 / 19.5",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0biki?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0biki?sortBy=8",
+                    "count": 1
+                }, {
+                    "label": "Aro 29 / 21,5",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0biio?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0biio?sortBy=8",
+                    "count": 1
+                }, {
+                    "label": "Aro 29 / 23.5",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0bikb?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0bikb?sortBy=8",
+                    "count": 1
+                }, {
+                    "label": "L",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z140gz?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z140gz?sortBy=8",
+                    "count": 61
+                }, {
+                    "label": "LG",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0k5qg?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0k5qg?sortBy=8",
+                    "count": 5
+                }, {
+                    "label": "M",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z140h0?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z140h0?sortBy=8",
+                    "count": 98
+                }, {
+                    "label": "M/L",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z13t6d?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z13t6d?sortBy=8",
+                    "count": 3
+                }, {
+                    "label": "MD",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0k5qh?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0k5qh?sortBy=8",
+                    "count": 8
+                }, {
+                    "label": "S",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z13zt5?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z13zt5?sortBy=8",
+                    "count": 80
+                }, {
+                    "label": "S/M",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z13rxp?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z13rxp?sortBy=8",
+                    "count": 2
+                }, {
+                    "label": "SM",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z12mic?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z12mic?sortBy=8",
+                    "count": 7
+                }, {
+                    "label": "ST",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z13jqr?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z13jqr?sortBy=8",
+                    "count": 4
+                }, {
+                    "label": "TU",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z14092?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z14092?sortBy=8",
+                    "count": 2
+                }, {
+                    "label": "XL",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z13zt4?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z13zt4?sortBy=8",
+                    "count": 8
+                }, {
+                    "label": "XS",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z13zt1?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z13zt1?sortBy=8",
+                    "count": 8
+                }, {
+                    "label": "XXS",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z12o6x?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z12o6x?sortBy=8",
+                    "count": 4
+                }],
+                "searchIn": false,
+                "displayingNumber": 50
+            }, {
+                "name": "Aro",
+                "type": "ajax",
+                "state": "open",
+                "select": "multi",
+                "values": [{
+                    "label": "12",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dx2d?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dx2d?sortBy=8",
+                    "count": 2
+                }, {
+                    "label": "20",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0du8r?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0du8r?sortBy=8",
+                    "count": 11
+                }, {
+                    "label": "24",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dohj?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dohj?sortBy=8",
+                    "count": 2
+                }, {
+                    "label": "26",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0du8k?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0du8k?sortBy=8",
+                    "count": 32
+                }, {
+                    "label": "27,5",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dtuz?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dtuz?sortBy=8",
+                    "count": 134
+                }, {
+                    "label": "27.5",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0cfxw?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0cfxw?sortBy=8",
+                    "count": 1
+                }, {
+                    "label": "28",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dqeh?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dqeh?sortBy=8",
+                    "count": 15
+                }, {
+                    "label": "29",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dqe1?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dqe1?sortBy=8",
+                    "count": 91
+                }],
+                "searchIn": false,
+                "displayingNumber": 50
+            }, {
+                "name": "Color",
+                "type": "ajax",
+                "state": "open",
+                "select": "multi",
+                "values": [{
+                    "label": "Amarillo",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-277x?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-277x?sortBy=8",
+                    "count": 2,
+                    "colorValue": "FDEC6F"
+                }, {
+                    "label": "Azul",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-277y?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-277y?sortBy=8",
+                    "count": 40,
+                    "colorValue": "0B108C"
+                }, {
+                    "label": "Azul Claro",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-278a?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-278a?sortBy=8",
+                    "count": 1,
+                    "colorValue": "94BFDC"
+                }, {
+                    "label": "Blanco",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-2780?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-2780?sortBy=8",
+                    "count": 8,
+                    "colorValue": "FFFFFF"
+                }, {
+                    "label": "Caf�",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-2782?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-2782?sortBy=8",
+                    "count": 1,
+                    "colorValue": "8E5B3E"
+                }, {
+                    "label": "Fucsia",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-2781?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-2781?sortBy=8",
+                    "count": 4,
+                    "colorValue": "D90073"
+                }, {
+                    "label": "Gris",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-277z?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-277z?sortBy=8",
+                    "count": 53,
+                    "colorValue": "DDDDDD"
+                }, {
+                    "label": "Morado",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-2787?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-2787?sortBy=8",
+                    "count": 5,
+                    "colorValue": "6D165A"
+                }, {
+                    "label": "Naranjo",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-2785?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-2785?sortBy=8",
+                    "count": 6,
+                    "colorValue": "FC930A"
+                }, {
+                    "label": "Negro",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-2788?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-2788?sortBy=8",
+                    "count": 80,
+                    "colorValue": "000000"
+                }, {
+                    "label": "Rojo",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-2789?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-2789?sortBy=8",
+                    "count": 16,
+                    "colorValue": "BA2D1E"
+                }, {
+                    "label": "Rosado",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-2786?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-2786?sortBy=8",
+                    "count": 2,
+                    "colorValue": "FCD9E5"
+                }, {
+                    "label": "Verde",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-278b?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-278b?sortBy=8",
+                    "count": 18,
+                    "colorValue": "519548"
+                }],
+                "searchIn": false,
+                "displayingNumber": 50
+            }, {
+                "name": "Tipo de freno",
+                "type": "ajax",
+                "state": "open",
+                "select": "multi",
+                "values": [{
+                    "label": "Disco hidr�ulico",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dtv0?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dtv0?sortBy=8",
+                    "count": 137
+                }, {
+                    "label": "Disco hidr�ulico delantero",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dnuv?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dnuv?sortBy=8",
+                    "count": 9
+                }, {
+                    "label": "Disco mec�nico",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dqeu?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dqeu?sortBy=8",
+                    "count": 83
+                }, {
+                    "label": "V-brake",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0du8t?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0du8t?sortBy=8",
+                    "count": 52
+                }],
+                "searchIn": false,
+                "displayingNumber": 4
+            }, {
+                "name": "G�nero",
+                "type": "ajax",
+                "state": "open",
+                "select": "multi",
+                "values": [{
+                    "label": "Infantil",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dx2f?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dx2f?sortBy=8",
+                    "count": 5
+                }, {
+                    "label": "Mujer",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dyej?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dyej?sortBy=8",
+                    "count": 55
+                }, {
+                    "label": "Unisex",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dydk?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dydk?sortBy=8",
+                    "count": 229
+                }],
+                "searchIn": false,
+                "displayingNumber": 50
+            }, {
+                "name": "Manubrio",
+                "type": "ajax",
+                "state": "open",
+                "select": "multi",
+                "values": [{
+                    "label": "Acero",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dx2h?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dx2h?sortBy=8",
+                    "count": 31
+                }, {
+                    "label": "Aluminio",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0du8m?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0du8m?sortBy=8",
+                    "count": 215
+                }, {
+                    "label": "Madera",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0doiq?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0doiq?sortBy=8",
+                    "count": 1
+                }],
+                "searchIn": false,
+                "displayingNumber": 4
+            }, {
+                "name": "Precio",
+                "type": "ajax",
+                "state": "open",
+                "select": "multi",
+                "values": [{
+                    "label": "$20.000 - $50.000",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-277l?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-277l?sortBy=8",
+                    "count": 2
+                }, {
+                    "label": "$50.000 - $100.000",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-277m?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-277m?sortBy=8",
+                    "count": 8
+                }, {
+                    "label": "$100.000 - $200.000",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-27cu?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-27cu?sortBy=8",
+                    "count": 68
+                }, {
+                    "label": "$200.000 - $350.000",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-27cv?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-27cv?sortBy=8",
+                    "count": 87
+                }, {
+                    "label": "$350.000 - $500.000",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-27cw?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-27cw?sortBy=8",
+                    "count": 37
+                }, {
+                    "label": "$500.000 - $1.000.000",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-277o?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-277o?sortBy=8",
+                    "count": 59
+                }, {
+                    "label": "Desde $1.000.000",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-27cx?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-27cx?sortBy=8",
+                    "count": 28
+                }],
+                "searchIn": false,
+                "displayingNumber": 10
+            }, {
+                "name": "Material del marco",
+                "type": "ajax",
+                "state": "open",
+                "select": "multi",
+                "values": [{
+                    "label": "Acero",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0du8u?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0du8u?sortBy=8",
+                    "count": 29
+                }, {
+                    "label": "Aluminio",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0du8p?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0du8p?sortBy=8",
+                    "count": 250
+                }, {
+                    "label": "Carbono",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0d53d?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0d53d?sortBy=8",
+                    "count": 7
+                }, {
+                    "label": "Madera",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dx2k?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dx2k?sortBy=8",
+                    "count": 1
+                }],
+                "searchIn": false,
+                "displayingNumber": 50
+            }, {
+                "name": "N�mero de cambios",
+                "type": "ajax",
+                "state": "open",
+                "select": "multi",
+                "values": [{
+                    "label": "1",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dx2g?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dx2g?sortBy=8",
+                    "count": 3
+                }, {
+                    "label": "10",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dqe4?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dqe4?sortBy=8",
+                    "count": 18
+                }, {
+                    "label": "11",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dqeb?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dqeb?sortBy=8",
+                    "count": 11
+                }, {
+                    "label": "12",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0cwwc?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0cwwc?sortBy=8",
+                    "count": 8
+                }, {
+                    "label": "14",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0cqm6?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0cqm6?sortBy=8",
+                    "count": 2
+                }, {
+                    "label": "16",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dg0e?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dg0e?sortBy=8",
+                    "count": 2
+                }, {
+                    "label": "18",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0du8l?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0du8l?sortBy=8",
+                    "count": 20
+                }, {
+                    "label": "20",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dtv1?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dtv1?sortBy=8",
+                    "count": 10
+                }, {
+                    "label": "21",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dtuv?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dtuv?sortBy=8",
+                    "count": 80
+                }, {
+                    "label": "22",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0d8ym?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0d8ym?sortBy=8",
+                    "count": 6
+                }, {
+                    "label": "24",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0du8i?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0du8i?sortBy=8",
+                    "count": 51
+                }, {
+                    "label": "27",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dnur?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dnur?sortBy=8",
+                    "count": 19
+                }, {
+                    "label": "30",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0d3yp?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0d3yp?sortBy=8",
+                    "count": 8
+                }, {
+                    "label": "6",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dtxt?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dtxt?sortBy=8",
+                    "count": 4
+                }, {
+                    "label": "7",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dqwg?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dqwg?sortBy=8",
+                    "count": 15
+                }, {
+                    "label": "8",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dqed?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dqed?sortBy=8",
+                    "count": 9
+                }, {
+                    "label": "9",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dqej?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dqej?sortBy=8",
+                    "count": 12
+                }, {
+                    "label": "Sin cambios",
+                    "primaryNav": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dktd?sortBy=8",
+                    "selected": false,
+                    "url": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike/N-1z0dktd?sortBy=8",
+                    "count": 2
+                }],
+                "searchIn": false,
+                "displayingNumber": 50
+            }],
+            "sortBys": [{
+                "selected": false,
+                "label": "Recomendados",
+                "value": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike?sortBy=5"
+            }, {
+                "selected": false,
+                "label": "Precio de menor a mayor",
+                "value": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike?sortBy=1"
+            }, {
+                "selected": false,
+                "label": "Precio de mayor a menor",
+                "value": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike?sortBy=2"
+            }, {
+                "selected": false,
+                "label": "Los mejores evaluados",
+                "value": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike?sortBy=6"
+            }, {
+                "selected": false,
+                "label": "Nuevos productos",
+                "value": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike?sortBy=7"
+            }, {
+                "selected": false,
+                "label": "Marca",
+                "value": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike?sortBy=3"
+            }, {
+                "selected": false,
+                "label": "Productos destacados",
+                "value": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike?sortBy=4"
+            }, {
+                "selected": false,
+                "label": "Preferidos",
+                "value": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike?sortBy=9"
+            }, {
+                "selected": true,
+                "label": "Favoritos",
+                "value": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike?sortBy=8"
+            }],
+            "gridViews": [{
+                "value": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike?sortBy=8&gridView=1",
+                "gridViewCode": "1",
+                "selected": true,
+                "label": "4 columns with square product teasers",
+                "extraInfo": "M0,0h5v9H0V0z M6,0h5v9H6V0z M12,0h5v9h-5V0z M18,0h5v9h-5V0z M0,10h5v9H0V10z M6,10h5v9H6V10z M12,10h5v9h-5V10z M18,10h5v9h-5V10z"
+            }],
+            "selectedRefinements": {
+                "clearAllUrl": "/falabella-cl/category/cat70008/Bicicletas-Mountain-Bike?sortBy=8"
+            }
+        },
+        "descriptionText": "<h2>Bicicletas Mountain Bike</h2><p>Si eres un amante de las <a href=\"https://www.falabella.com/falabella-cl/category/cat70007/Bicicletas\">Bicicletas</a> Falabella.com es el lugar indicado para ti, ya que tiene cientos de modelos disponibles. Como las <strong>Bicicletas Mountain Bike</strong>, las que puedes utilizar para caminos irregulares o de monta�a teniendo una gran experiencia al andar. Complementa tu favorita con los mejores <a href=\"https://www.falabella.com/falabella-cl/category/cat6930367/Accesorios\">Accesorios para Bicicletas</a>, y mantente seguro con los mejores <a href=\"https://www.falabella.com/falabella-cl/category/cat6930376/Cascos\">Cascos</a>.</p>",
+        "primaryLabel": "Bicicletas Mountain Bike",
+        "secondaryLabel": {
+            "name": "Bicicletas",
+            "href": "#",
+            "title": "Bicicletas",
+            "label": "Bicicletas"
+        }
+    },
+    "textDictionary": {
+        "collectPointsText": "Acumula puntos",
+        "clearCompareButton": "Borrar todo",
+        "titleSelectedFilters": "Filtro seleccionado",
+        "ofText": "de",
+        "prepayText": "Equipo",
+        "viewPlansText": "Revisa los planes disponibles que tenemos para este tel�fono. ",
+        "gridViewText": "Mostrando:",
+        "showMoreText": "Ver Filtros",
+        "doneButtonText": "Listo",
+        "prepayCTA": "Ver equipo",
+        "planText": "Planes",
+        "plansText": "Tenemos los mejores planes para ti",
+        "isCODAvailableText": "disponible pago contra entrega",
+        "sortby": "Ordenar por:",
+        "compareButton": "Comparar",
+        "sortByText": "Ordenar por:",
+        "fromText": "Desde:",
+        "showingText": "Mostrando",
+        "leftNavigationTitleText": "Filtrar por:",
+        "compareSubtitle": "Est�s comparando",
+        "outOfStock": "Agotado",
+        "editLocation": "Editar Ubicaci�n",
+        "viewText": "Mostrando:",
+        "plansCTA": "Ver Planes",
+        "resultsText": "resultados",
+        "compareBoxText": "Comparar",
+        "clearSelectedFilters": "Borrar filtro",
+        "addToBasket": "Agregar a tu Bolsa",
+        "availableForText": "disponibles para",
+        "totalResultText": "de {0} resultados",
+        "agotadoText": "Agotado",
+        "primeLabelText": "Boom",
+        "productOutOfStockText": "Agotado",
+        "currentPageResultText": "mostrando"
+    },
+    "endPoints": {
+        "getSearchItemList": {
+            "name": "getSearchItemList",
+            "type": "GET",
+            "path": "/rest/model/falabella/rest/browse/BrowseActor/get-product-record-list"
+        },
+        "getAssetMediaSet": {
+            "name": "getAssetMediaSet",
+            "type": "GET",
+            "path": "//falabella.scene7.com/is/image/"
+        },
+        "addCompareProduct": {
+            "name": "addCompareProduct",
+            "type": "POST",
+            "path": "/rest/model/falabella/rest/browse/BrowseActor/add-compare-product"
+        },
+        "removeCompareProduct": {
+            "name": "removeCompareProduct",
+            "type": "POST",
+            "path": "/rest/model/falabella/rest/browse/BrowseActor/remove-compare-product"
+        },
+        "addToCart": {
+            "name": "addToCart",
+            "type": "POST",
+            "path": "/falabella-cl/bean/falabella/commerce/order/service/ExternalSiteAddToCartService/addItemToOrder"
+        }
+    }
+}

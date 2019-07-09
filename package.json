@@ -2,16 +2,20 @@
   "name": "bicycle-falabella-webscrap",
   "version": "1.0.0",
   "description": "Simple programa que recolecta el precio de biciclets en la pagina de Falabella",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node server.js",
+    "ripley": "node ripley.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
-    "request": "^2.88.0"
+    "ejs": "^2.6.1",
+    "express": "^4.17.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
   }
 }
